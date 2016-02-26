@@ -1,0 +1,32 @@
+h1 {
+  font-size: 36px;
+  text-align: center;
+
+}
+h2{
+  font-size: 36px;
+  text-align: center;;
+}
+.p1{
+  font-size: 14px;
+  text-align: center;
+}
+.i1{
+  margin-left: auto;
+   margin-right: auto;
+   width: 6em;
+}
+footer{
+  background-color: #262B2F;
+}
+
+.list-inline{
+  color: white;
+}
+h4 {
+  color:white;
+}
+
+.btn  {
+  background-color: black;
+}
